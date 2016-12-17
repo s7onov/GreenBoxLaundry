@@ -1,4 +1,9 @@
 # GreenBoxLaundry
+12.16.16 <br> 
+Task: UI prototyping, coding<br>
+Time: 4 hours (didn't have more time, i will work on Saturday or Sunday)<br> 
+Changes: new screenshots: client_tab_order_.jpg and client_tab_my_orders_.jpg<br> 
+<br>
 12.15.16 <br> 
 Task: analysing competitors, exploring competitors apps. UI prototyping.<br>
 Time: 6 hours<br> 
