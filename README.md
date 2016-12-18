@@ -1,4 +1,9 @@
 # GreenBoxLaundry
+12.18.16 <br> 
+Task: UI prototyping, coding<br>
+Time: 5.5 hours<br> 
+Changes: screenshots were updated: client_tab_order_.jpg and client_tab_my_orders_.jpg<br> 
+<br>
 12.16.16 <br> 
 Task: UI prototyping, coding<br>
 Time: 4 hours (didn't have more time, i will work on Saturday or Sunday)<br> 
