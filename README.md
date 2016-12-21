@@ -1,4 +1,9 @@
 # GreenBoxLaundry
+12.20.16 <br>
+Task: Coding map, the app getting address from click on map<br>
+Changes: new screenshot: client_tab_map_.jpg<br>
+Time: 4 hours<br>
+<br>
 12.19.16 <br>
 Task: Coding fragments, start working with the map<br>
 Time: 4 hours<br>
