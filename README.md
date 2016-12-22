@@ -1,4 +1,10 @@
 # GreenBoxLaundry
+12.21.16 <br>
+Task: Coding, added GPS detection on map, prototyped datetime dialog<br>
+Changes: new screenshots: client_tab_map_filled.jpg, client_tab_order_filled.jpg<br>
+updated screenshots: client_tab_map_.jpg, client_tab_order_.jpg<br>
+Time: 8 hours<br>
+<br>
 12.20.16 <br>
 Task: Coding map, the app getting address from click on map<br>
 Changes: new screenshot: client_tab_map_.jpg<br>
