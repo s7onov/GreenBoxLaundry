@@ -1,4 +1,10 @@
 # GreenBoxLaundry
+12.22.16 <br>
+Task: Coding, datetime dialog, ASAP button<br>
+Changes: new: client_datetime_dialog.jpg<br>
+updated: client_tab_order_filled.jpg<br>
+Time: 5 hours<br>
+<br>
 12.21.16 <br>
 Task: Coding, added GPS detection on map, prototyped datetime dialog<br>
 Changes: new screenshots: client_tab_map_filled.jpg, client_tab_order_filled.jpg<br>
