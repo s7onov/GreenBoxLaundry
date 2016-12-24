@@ -1,4 +1,9 @@
 # GreenBoxLaundry
+12.23.16 <br>
+Task: Coding, testing on different android versions<br>
+updated: client_tab_my_orders_.jpg<br>
+Time: 4 hours<br>
+<br>
 12.22.16 <br>
 Task: Coding, datetime dialog, ASAP button<br>
 Changes: new: client_datetime_dialog.jpg<br>
