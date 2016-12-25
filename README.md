@@ -1,4 +1,11 @@
 # GreenBoxLaundry
+12.25.16 <br>
+Task: Coding, testing, releasing the first version<br>
+New: Here is a prototype version 1: greenboxlaundry.apk<br>
+You may install it on real device or emulator to see how it works. See manual.pdf with the app description.<br>
+Time: 5.5 hours<br>
+Merry Christmas!<br>
+<br>
 12.23.16 <br>
 Task: Coding, testing on different android versions<br>
 updated: client_tab_my_orders_.jpg<br>
